@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11685" started-at="2021-06-19T22:24:13 IST" finished-at="2021-06-19T22:24:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11685" started-at="2021-06-19T22:24:13 IST" finished-at="2021-06-19T22:24:24 IST">
+      <class name="testclass.TestClass1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testclass.TestClass1@587c290d]" name="beforeClass" is-config="true" duration-ms="3863" started-at="2021-06-19T22:24:13 IST" finished-at="2021-06-19T22:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="beforeMethode" is-config="true" duration-ms="467" started-at="2021-06-19T22:24:17 IST" finished-at="2021-06-19T22:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="ToVerifyReportBtn()[pri:0, instance:testclass.TestClass1@587c290d]" name="ToVerifyReportBtn" duration-ms="3737" started-at="2021-06-19T22:24:17 IST" finished-at="2021-06-19T22:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyReportBtn -->
+        <test-method status="PASS" signature="afterMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="afterMethode" is-config="true" duration-ms="206" started-at="2021-06-19T22:24:21 IST" finished-at="2021-06-19T22:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method status="PASS" signature="beforeMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="beforeMethode" is-config="true" duration-ms="224" started-at="2021-06-19T22:24:21 IST" finished-at="2021-06-19T22:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="ToVerifyWorkSchdlBtn()[pri:0, instance:testclass.TestClass1@587c290d]" name="ToVerifyWorkSchdlBtn" duration-ms="919" started-at="2021-06-19T22:24:21 IST" finished-at="2021-06-19T22:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyWorkSchdlBtn -->
+        <test-method status="PASS" signature="afterMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="afterMethode" is-config="true" duration-ms="180" started-at="2021-06-19T22:24:22 IST" finished-at="2021-06-19T22:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method status="PASS" signature="beforeMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="beforeMethode" is-config="true" duration-ms="216" started-at="2021-06-19T22:24:22 IST" finished-at="2021-06-19T22:24:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="ToVerifyTaskBtn()[pri:1, instance:testclass.TestClass1@587c290d]" name="ToVerifyTaskBtn" duration-ms="1419" started-at="2021-06-19T22:24:23 IST" finished-at="2021-06-19T22:24:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyTaskBtn -->
+        <test-method status="PASS" signature="afterMethode()[pri:0, instance:testclass.TestClass1@587c290d]" name="afterMethode" is-config="true" duration-ms="222" started-at="2021-06-19T22:24:24 IST" finished-at="2021-06-19T22:24:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testclass.TestClass1@587c290d]" name="afterClass" is-config="true" duration-ms="167" started-at="2021-06-19T22:24:24 IST" finished-at="2021-06-19T22:24:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testclass.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
