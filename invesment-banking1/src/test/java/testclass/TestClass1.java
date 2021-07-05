@@ -127,7 +127,7 @@ public class TestClass1 extends Pojo{
 	@AfterTest
 	public void afterTest() {
 		
-					System.out.println("Changes");
+					System.out.println("after SChanges");
 
 		
 	}
